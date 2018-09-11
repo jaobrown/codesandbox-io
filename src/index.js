@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1>React Sandbox!</h1>
-      <h2>This is pretty cool, actually.</h2>
+      <h2>This is pretty cool, actually! I like it.</h2>
     </div>
   );
 }
